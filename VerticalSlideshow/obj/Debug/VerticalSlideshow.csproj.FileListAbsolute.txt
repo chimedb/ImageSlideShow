@@ -1,0 +1,9 @@
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\bin\Debug\VerticalSlideshow.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\bin\Debug\VerticalSlideshow.pdb
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\bin\Debug\PluginFramework.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\bin\Debug\PluginFramework.pdb
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\obj\Debug\VerticalSlideshow.csprojAssemblyReference.cache
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\obj\Debug\VerticalSlideshow.csproj.CoreCompileInputs.cache
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\obj\Debug\VerticalSlideshow.csproj.CopyComplete
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\obj\Debug\VerticalSlideshow.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\VerticalSlideshow\obj\Debug\VerticalSlideshow.pdb

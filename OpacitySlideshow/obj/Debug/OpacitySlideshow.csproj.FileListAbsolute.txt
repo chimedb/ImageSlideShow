@@ -1,0 +1,9 @@
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\bin\Debug\OpacitySlideshow.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\bin\Debug\OpacitySlideshow.pdb
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\bin\Debug\PluginFramework.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\bin\Debug\PluginFramework.pdb
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\obj\Debug\OpacitySlideshow.csprojAssemblyReference.cache
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\obj\Debug\OpacitySlideshow.csproj.CoreCompileInputs.cache
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\obj\Debug\OpacitySlideshow.csproj.CopyComplete
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\obj\Debug\OpacitySlideshow.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\OpacitySlideshow\obj\Debug\OpacitySlideshow.pdb

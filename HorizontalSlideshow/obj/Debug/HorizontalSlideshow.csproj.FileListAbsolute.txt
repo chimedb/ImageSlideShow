@@ -1,0 +1,9 @@
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\bin\Debug\HorizontalSlideshow.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\bin\Debug\HorizontalSlideshow.pdb
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\bin\Debug\PluginFramework.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\bin\Debug\PluginFramework.pdb
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\obj\Debug\HorizontalSlideshow.csprojAssemblyReference.cache
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\obj\Debug\HorizontalSlideshow.csproj.CoreCompileInputs.cache
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\obj\Debug\HorizontalSlideshow.csproj.CopyComplete
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\obj\Debug\HorizontalSlideshow.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\HorizontalSlideshow\obj\Debug\HorizontalSlideshow.pdb

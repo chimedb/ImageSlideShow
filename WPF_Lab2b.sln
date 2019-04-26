@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Lab2b", "WPF_Lab2b\WPF_Lab2b.csproj", "{327768DE-6842-4F69-AB76-586FACB6D13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginFramework", "PluginFramework\PluginFramework.csproj", "{AAD5D550-60CA-4845-BF7A-C1D461D68170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalSlideshow", "VerticalSlideshow\VerticalSlideshow.csproj", "{9959EF82-E579-40FB-89E5-93045ED8EE2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpacitySlideshow", "OpacitySlideshow\OpacitySlideshow.csproj", "{78F74F46-F9EF-4C03-99EE-A25D0ED8CF1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorizontalSlideshow", "HorizontalSlideshow\HorizontalSlideshow.csproj", "{38F2F576-4E06-437F-9C47-D7F2E4C34D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327768DE-6842-4F69-AB76-586FACB6D13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327768DE-6842-4F69-AB76-586FACB6D13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327768DE-6842-4F69-AB76-586FACB6D13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327768DE-6842-4F69-AB76-586FACB6D13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD5D550-60CA-4845-BF7A-C1D461D68170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD5D550-60CA-4845-BF7A-C1D461D68170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD5D550-60CA-4845-BF7A-C1D461D68170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD5D550-60CA-4845-BF7A-C1D461D68170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9959EF82-E579-40FB-89E5-93045ED8EE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9959EF82-E579-40FB-89E5-93045ED8EE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9959EF82-E579-40FB-89E5-93045ED8EE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9959EF82-E579-40FB-89E5-93045ED8EE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F74F46-F9EF-4C03-99EE-A25D0ED8CF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F74F46-F9EF-4C03-99EE-A25D0ED8CF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F74F46-F9EF-4C03-99EE-A25D0ED8CF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F74F46-F9EF-4C03-99EE-A25D0ED8CF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F2F576-4E06-437F-9C47-D7F2E4C34D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F2F576-4E06-437F-9C47-D7F2E4C34D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F2F576-4E06-437F-9C47-D7F2E4C34D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F2F576-4E06-437F-9C47-D7F2E4C34D05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC17E64B-E7A9-42DC-BC4A-19CB1D3AF0CB}
+	EndGlobalSection
+EndGlobal

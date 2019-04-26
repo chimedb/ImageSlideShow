@@ -1,0 +1,6 @@
+C:\Users\Chimee\source\repos\pwsg\Plugin\PluginFramework\bin\Debug\PluginFramework.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\PluginFramework\bin\Debug\PluginFramework.pdb
+C:\Users\Chimee\source\repos\pwsg\Plugin\PluginFramework\obj\Debug\PluginFramework.csproj.CoreCompileInputs.cache
+C:\Users\Chimee\source\repos\pwsg\Plugin\PluginFramework\obj\Debug\PluginFramework.dll
+C:\Users\Chimee\source\repos\pwsg\Plugin\PluginFramework\obj\Debug\PluginFramework.pdb
+C:\Users\Chimee\source\repos\pwsg\Plugin\PluginFramework\obj\Debug\PluginFramework.csprojAssemblyReference.cache
